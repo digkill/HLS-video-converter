@@ -20,5 +20,5 @@ This Go-based service allows you to upload video files and converts them to HLS 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/digkill/HLS-video-converter
+   git clone https://github.com/digkill/HLS-video-converter video-to-hls
    cd video-to-hls
